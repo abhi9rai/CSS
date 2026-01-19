@@ -1,0 +1,21 @@
+body{
+    padding: 10%;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+
+a{
+    color: hsl(207, 44%, 49%);
+}
+
+a:visited{
+    color: purple;
+}
+a:hover, a:focus{
+    color: hsl(210, 100%, 56%,0.5);
+    background-color: gold;
+}
+a:active{
+    color: red;
+}
